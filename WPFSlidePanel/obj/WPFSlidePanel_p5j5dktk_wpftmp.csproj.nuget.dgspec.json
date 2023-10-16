@@ -1,0 +1,144 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Gilon\\Desktop\\Cielo\\WPF_Application\\WPFSlidePanel\\WPFSlidePanel\\WPFSlidePanel.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Gilon\\Desktop\\Cielo\\WPF_Application\\WPFSlidePanel\\WPFControls\\WPFControls.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Gilon\\Desktop\\Cielo\\WPF_Application\\WPFSlidePanel\\WPFControls\\WPFControls.csproj",
+        "projectName": "WPFControls",
+        "projectPath": "C:\\Users\\Gilon\\Desktop\\Cielo\\WPF_Application\\WPFSlidePanel\\WPFControls\\WPFControls.csproj",
+        "packagesPath": "C:\\Users\\Gilon\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Gilon\\Desktop\\Cielo\\WPF_Application\\WPFSlidePanel\\WPFControls\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Gilon\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0-windows7.0": {
+            "targetAlias": "net6.0-windows",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0-windows7.0": {
+          "targetAlias": "net6.0-windows",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WPF": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Gilon\\Desktop\\Cielo\\WPF_Application\\WPFSlidePanel\\WPFSlidePanel\\WPFSlidePanel.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Gilon\\Desktop\\Cielo\\WPF_Application\\WPFSlidePanel\\WPFSlidePanel\\WPFSlidePanel.csproj",
+        "projectName": "WPFSlidePanel",
+        "projectPath": "C:\\Users\\Gilon\\Desktop\\Cielo\\WPF_Application\\WPFSlidePanel\\WPFSlidePanel\\WPFSlidePanel.csproj",
+        "packagesPath": "C:\\Users\\Gilon\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Gilon\\Desktop\\Cielo\\WPF_Application\\WPFSlidePanel\\WPFSlidePanel\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Gilon\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0-windows7.0": {
+            "targetAlias": "net6.0-windows",
+            "projectReferences": {
+              "C:\\Users\\Gilon\\Desktop\\Cielo\\WPF_Application\\WPFSlidePanel\\WPFControls\\WPFControls.csproj": {
+                "projectPath": "C:\\Users\\Gilon\\Desktop\\Cielo\\WPF_Application\\WPFSlidePanel\\WPFControls\\WPFControls.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0-windows7.0": {
+          "targetAlias": "net6.0-windows",
+          "dependencies": {
+            "FontAwesome6.Svg": {
+              "target": "Package",
+              "version": "[2.5.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WPF": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
